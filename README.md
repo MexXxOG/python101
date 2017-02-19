@@ -1,4 +1,4 @@
-Szkolenie Python 101
+Szkolenie Python 101 - Gitara Siema
 ====================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkolenia z
